@@ -1,3 +1,26 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Disallow:
+
+1.Project Setup
+2.Component Structure
+3.Redux Setup 
+4.JSON Server Setup 
+5.Fetching and Displaying Product Data
+6.Reservation Featur 
+7.Displaying Reservations
+8.Updating and Canceling Reservations   
+9.Sorting and Filtering
+10.User Authentication
+11.Navbar
+12.Bootstrap Styling
+
+* My Work :- Redux-Saga, JSON Server, Get, Post, Delete, Update, Filtering, Navbar, Bootstrap
+             Navbar :- 1. Product = Product List => Filtering Product & Price, Table
+                       2. User = Product Form => Form
+                       3. Profile = Profile
+            
+
+
+
+

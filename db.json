@@ -1,9 +1,21 @@
 {
-  "post": [
+  "products": [
     {
-      "id": "5c06",
+      "id": "8279",
       "name": "ring",
+      "price": "40000",
+      "desc": "this is ring"
+    },
+    {
+      "id": "baf1",
+      "name": "watch",
       "price": "2000",
+      "desc": "this is watch"
+    },
+    {
+      "id": "b423",
+      "name": "ring",
+      "price": "3000",
       "desc": "this is ring"
     }
   ]

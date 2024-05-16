@@ -1,8 +1,8 @@
 import { combineReducers } from "redux";
-import adminReducer from "./admin/reducer/Reducer"
+import userReducer from "./product/reducer/reducer";
 
-let rootReducer = combineReducers({
-    adminReducer,
-})
+let rootReducers = combineReducers({
+  userReducer,
+});
 
-export default rootReducer;
+export default rootReducers;
